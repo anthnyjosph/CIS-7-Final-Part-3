@@ -13,14 +13,12 @@ Project General Description:
 
  Authors:
 
- Lead Developer: Jaden Evangelista
- Team Members: Anthony Ocampo
+ Team Memebers: Jaden Evangelista and Anthony Ocampo
  Date Published: 12/9/23
 
 
  Basic Instructions:
  Run the Program:
- Execute the compiled program: ./Matchmaker
  Input Participant Information:
  Follow on-screen prompts to enter information for each participant.
  Provide participant names, choose languages, specializations, and countries from the provided lists.
